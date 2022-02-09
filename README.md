@@ -1,7 +1,6 @@
 # compute-windows-images
 Windows images for Compute Engine on Google Cloud Platform
 Windows Server 2022 Datacenter and Windows 10 IoT Enterprise LTSC 2021 built with [compute-image-tools](https://github.com/GoogleCloudPlatform/compute-image-tools)
-## 
 ## How to
 1. Install [Google Cloud SDK](https://cloud.google.com/sdk/docs/quickstart)
 2. Create a Windows Server instance with
